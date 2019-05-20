@@ -3,6 +3,9 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
+/*
+j'insère tous mes composants là dedans
+*/
 @NgModule({
   declarations: [
     AppComponent
